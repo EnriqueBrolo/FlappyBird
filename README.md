@@ -1,4 +1,4 @@
-##Freddy's Heavenly Flight (Flappy Bird like Game)
+## Freddy's Heavenly Flight (Flappy Bird like Game)
 
 ## Description
 
